@@ -33,7 +33,6 @@ I enjoy combining **clean design** with **strong technical foundations** to buil
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
----
 
 ## 🚀 About Me
 
@@ -43,25 +42,6 @@ I enjoy combining **clean design** with **strong technical foundations** to buil
 - 🌱 Continuous learner via **NPTEL certifications**  
 - 🤝 Event Team Member at **SEDS CUSAT**
 
----
-
-## 🧩 Experience
-
-**Event Team Member – SEDS CUSAT**  
-📍 Kochi | 📅 Aug 2025 – Present  
-
-- Organizing and supporting technical events  
-- Working with cross-functional student teams  
-- Enhancing communication and leadership skills  
-
----
-
-## 📜 Certifications
-
-- 🏅 **Advanced Distributed Systems** – NPTEL (Oct 2025)  
-- 🏅 **Chemical Process Safety** – NPTEL (Jul–Oct 2025)  
-
----
 
 ## 📈 Current Focus
 
@@ -70,13 +50,5 @@ I enjoy combining **clean design** with **strong technical foundations** to buil
 - Distributed systems concepts and scalability  
 - Building academic and personal projects  
 
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: **Uvin Joseph Roy**  
-- 🌐 Location: Kerala, India  
-
----
 
 ⭐ Feel free to explore my repositories and connect with me!
