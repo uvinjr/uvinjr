@@ -1,11 +1,8 @@
-# 👋 Hi, I'm Uvin Joseph Roy
-
-🎓 3rd Year B.Tech Computer Science & Engineering student at  
-**Cochin University of Science and Technology (CUSAT)**  
-📍 Kerala, India  
+ 🎓 I'm Uvin Joseph Roy, 3rd Year B.Tech Computer Science & Engineering student at  
+**Cochin University of Science and Technology (CUSAT)**   
 
 💡 UI/UX Explorer | Figma Enthusiast | Computer Science Learner  
-I enjoy combining **clean design** with **strong technical foundations** to build meaningful digital experiences.
+
 
 ---
 
