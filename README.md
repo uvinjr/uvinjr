@@ -3,9 +3,6 @@
 
 💡 UI/UX Explorer | Figma Enthusiast | Computer Science Learner  
 
-
----
-
 ## 🏷️ Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -29,15 +26,6 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE (2023 – 2027) @ CUSAT  
-- 🎨 UI/UX Explorer with hands-on experience using **Figma**  
-- 🧠 Interested in **Distributed Systems & System Design**  
-- 🌱 Continuous learner via **NPTEL certifications**  
-- 🤝 Event Team Member at **SEDS CUSAT**
 
 
 ## 📈 Current Focus
